@@ -4,9 +4,10 @@ DOMAIN-SUFFIX,msmp.abchina.com.cn
 # 涨乐财富通去广告
 DST-PORT,18083
 DOMAIN-SUFFIX,zlcftualprod.htsham.com
-DOMAIN-SUFFIX,c.zhangle.com
-DOMAIN-SUFFIX,frontier-aweme.snssdk.com
-
+DOMAIN-SUFFIX,zhangle.com
+DOMAIN-SUFFIX,live.inst-service.htsc.com
+DOMAIN-SUFFIX,chinatai.com.cn
+#DOMAIN-SUFFIX,frontier-aweme.snssdk.com
 
 # 手工定义的 Reject 列表
 #待反馈是否误杀
@@ -33990,8 +33991,4 @@ DOMAIN-SUFFIX,ribumpin.com
 DOMAIN-SUFFIX,ribunews.com
 DOMAIN-SUFFIX,ric-ric-rum.com
 DOMAIN-SUFFIX,ricead.com
-DOMAIN-SUFFIX,ricerets.top
-DOMAIN-SUFFIX,ricettadellanonna.com
-DOMAIN-SUFFIX,ricewaterhou.xyz
-DOMAIN-SUFFIX,richensapient.top
-DOMAIN-SUFFIX,richersitfast
+DOMA
