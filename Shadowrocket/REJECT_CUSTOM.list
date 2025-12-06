@@ -1,0 +1,10 @@
+# 自定义规则，分别是iFBAs版本检测、农业银行VPN检测
+USER-AGENT,iFBAs/1.1.13.10 CFNetwork/1410.0.3 Darwin/22.6.0
+DOMAIN-SUFFIX,msmp.abchina.com.cn
+# 涨乐财富通去广告
+DST-PORT,18083
+DOMAIN-SUFFIX,zlcftualprod.htsham.com
+DOMAIN-SUFFIX,zhangle.com
+DOMAIN-SUFFIX,live.inst-service.htsc.com
+DOMAIN-SUFFIX,chinatai.com.cn
+#DOMAIN-SUFFIX,frontier-aweme.snssdk.com
